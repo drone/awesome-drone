@@ -22,6 +22,8 @@ A curates list of awesome Drone resources.
 
 ### Tutorials
 
+* [gesellix/drone-stack](https://github.com/gesellix/drone-stack) - example Docker Stack using Swarm mode
+
 ## Libraries
 ### Go
 
@@ -36,4 +38,4 @@ A curates list of awesome Drone resources.
 ## Tools
 ### Installation
 
-* [Helm Chart](https://github.com/kubernetes/charts/tree/master/incubator/drone) - official Heml Chart in [kubernetes/helm](https://github.com/kubernetes/charts)
+* [Helm Chart](https://github.com/kubernetes/charts/tree/master/incubator/drone) - official Helm Chart in [kubernetes/helm](https://github.com/kubernetes/charts)
