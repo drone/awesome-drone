@@ -1,11 +1,39 @@
 # Awesome Drone [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome Drone resources. Items on the list are actively maintained, well documented, and popular in the community. Inspired by the awesome lists.
+A curates list of awesome Drone resources.
 
-### Contributing
+## Table of Contents
 
-Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) first. If you see a plugin or tutorial here that is no longer maintained or is not a good fit, please submit a pull request to improve this file.
+- [Resources](#resources)
+  - [Documentation](#documentation)
+  - [Articles](#articles)
+  - [Tutorials](#tutorials)
+- [Libraries](#libraries)
+  - [Go](#go)
+  - [JavaScript](#javascript)
+- [Plugins](#plugins)
+- [Tools](#tools)
+  - [Installation](#installation)
 
-## Installation
+## Resources
+### Documentation
+
+### Articles
+
+### Tutorials
+
+## Libraries
+### Go
+
+* [drone/drone-go](https://github.com/drone/drone-go) - official Go client
+
+### JavaScript
+
+* [drone/drone.js](https://github.com/drone/drone-js) - official JavaScript client
+
+## Plugins
+
+## Tools
+### Installation
 
 * [Helm Chart](https://github.com/kubernetes/charts/tree/master/incubator/drone) - official Heml Chart in [kubernetes/helm](https://github.com/kubernetes/charts)
