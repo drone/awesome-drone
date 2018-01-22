@@ -5,3 +5,7 @@ A curated list of awesome Drone resources. Items on the list are actively mainta
 ### Contributing
 
 Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) first. If you see a plugin or tutorial here that is no longer maintained or is not a good fit, please submit a pull request to improve this file.
+
+## Installation
+
+* [Helm Chart](https://github.com/kubernetes/charts/tree/master/incubator/drone) - official Heml Chart in [kubernetes/helm](https://github.com/kubernetes/charts)
