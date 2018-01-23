@@ -16,13 +16,17 @@ A curates list of awesome Drone resources.
   - [Installation](#installation)
 
 ## Resources
+
 ### Documentation
+
+* [go-training/drone-tutorial](https://github.com/go-training/drone-tutorial) - Drone Continuous Delivery Installation guide
 
 ### Articles
 
 ### Tutorials
 
 * [gesellix/drone-stack](https://github.com/gesellix/drone-stack) - example Docker Stack using Swarm mode
+* [appleboy/drone-on-kubernetes](https://github.com/appleboy/drone-on-kubernetes/) - Examples of how to run Drone on Kubernetes (AWS && GKE)
 
 ## Libraries
 ### Go
@@ -36,6 +40,7 @@ A curates list of awesome Drone resources.
 ## Plugins
 
 ## Tools
+
 ### Installation
 
 * [Helm Chart](https://github.com/kubernetes/charts/tree/master/incubator/drone) - official Helm Chart in [kubernetes/helm](https://github.com/kubernetes/charts)
