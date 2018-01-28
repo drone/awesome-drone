@@ -39,6 +39,8 @@ A curates list of awesome Drone resources.
 
 ## Plugins
 
+* [mavimo/drone-chromewebstore](https://github.com/mavimo/drone-chromewebstore) - allow to upload and publish application on Chrome Webstore
+
 ## Tools
 
 ### Installation
