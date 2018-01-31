@@ -23,6 +23,8 @@ A curates list of awesome Drone resources.
 
 ### Articles
 
+* [CI/CD tools comparison](https://www.digitalocean.com/community/tutorials/ci-cd-tools-comparison-jenkins-gitlab-ci-buildbot-drone-and-concourse) - by Digital Ocean
+
 ### Tutorials
 
 * [gesellix/drone-stack](https://github.com/gesellix/drone-stack) - example Docker Stack using Swarm mode
