@@ -48,3 +48,4 @@ A curates list of awesome Drone resources.
 ### Installation
 
 * [Helm Chart](https://github.com/kubernetes/charts/tree/master/incubator/drone) - official Helm Chart in [kubernetes/helm](https://github.com/kubernetes/charts)
+* [yum repo](https://copr.fedorainfracloud.org/coprs/carlwgeorge/drone/) - RPM packages for installing drone-server, drone-agent, and drone-cli on Fedora, CentOS, and RHEL
