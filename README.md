@@ -12,6 +12,7 @@ A curates list of awesome Drone resources.
   - [Go](#go)
   - [JavaScript](#javascript)
 - [Plugins](#plugins)
+- [Secrets](#secrets)
 - [Tools](#tools)
   - [Installation](#installation)
 
@@ -44,9 +45,15 @@ A curates list of awesome Drone resources.
 
 * [mavimo/drone-chromewebstore](https://github.com/mavimo/drone-chromewebstore) - allow to upload and publish application on Chrome Webstore
 
+## Secrets
+
+* [drone/drone-secret-plugin-starter](https://github.com/drone/drone-secret-plugin-starter) - starter project for building your own secrets plugin
+* [drone/drone-amazon-secrets](https://github.com/drone/drone-amazon-secrets) - plugin to source secrets from the AWS Secrets Manager 
+* [drone/drone-vault-secrets](https://github.com/drone/drone-vault-secrets) - plugin to source secrets from Vault
+
 ## Tools
 
 ### Installation
 
-* [Helm Chart](https://github.com/kubernetes/charts/tree/master/incubator/drone) - official Helm Chart in [kubernetes/helm](https://github.com/kubernetes/charts)
+* [Helm Chart](https://github.com/kubernetes/charts/tree/master/stable/drone) - official Helm Chart in [kubernetes/helm](https://github.com/kubernetes/charts)
 * [yum repo](https://copr.fedorainfracloud.org/coprs/carlwgeorge/drone/) - RPM packages for installing drone-server, drone-agent, and drone-cli on Fedora, CentOS, and RHEL
