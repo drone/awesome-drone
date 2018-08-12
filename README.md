@@ -9,8 +9,6 @@ A curates list of awesome Drone resources.
   - [Articles](#articles)
   - [Tutorials](#tutorials)
 - [Libraries](#libraries)
-  - [Go](#go)
-  - [JavaScript](#javascript)
 - [Plugins](#plugins)
 - [Secrets](#secrets)
 - [Tools](#tools)
@@ -33,12 +31,8 @@ A curates list of awesome Drone resources.
 * [dellintosh/pipeline](https://github.com/dellintosh/pipeline) - Example end-to-end deployment pipeline using multiple Kubernetes clusters
 
 ## Libraries
-### Go
 
 * [drone/drone-go](https://github.com/drone/drone-go) - official Go client
-
-### JavaScript
-
 * [drone/drone.js](https://github.com/drone/drone-js) - official JavaScript client
 
 ## Plugins
