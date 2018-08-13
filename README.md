@@ -43,7 +43,7 @@ A curates list of awesome Drone resources.
 
 * [drone/drone-secret-plugin-starter](https://github.com/drone/drone-secret-plugin-starter) - starter project for building your own secrets plugin
 * [drone/drone-amazon-secrets](https://github.com/drone/drone-amazon-secrets) - plugin to source secrets from the AWS Secrets Manager 
-* [drone/drone-vault-secrets](https://github.com/drone/drone-vault-secrets) - plugin to source secrets from Vault
+* [drone/drone-vault](https://github.com/drone/drone-vault) - plugin to source secrets from Vault
 
 ## Tools
 
