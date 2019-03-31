@@ -29,6 +29,7 @@ A curates list of awesome Drone resources.
 * [gesellix/drone-stack](https://github.com/gesellix/drone-stack) - example Docker Stack using Swarm mode
 * [appleboy/drone-on-kubernetes](https://github.com/appleboy/drone-on-kubernetes/) - Examples of how to run Drone on Kubernetes (AWS && GKE)
 * [dellintosh/pipeline](https://github.com/dellintosh/pipeline) - Example end-to-end deployment pipeline using multiple Kubernetes clusters
+* [Kubernetes on arm64](https://thepracticalsysadmin.com/set-up-drone-on-arm64-kubernetes-clusters/) - Tutorial for setting up Drone 1.0 on Kubernetes arm64 clusters
 
 ## Libraries
 
