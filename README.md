@@ -52,3 +52,7 @@ A curates list of awesome Drone resources.
 
 * [Helm Chart](https://github.com/kubernetes/charts/tree/master/stable/drone) - official Helm Chart in [kubernetes/helm](https://github.com/kubernetes/charts)
 * [yum repo](https://copr.fedorainfracloud.org/coprs/carlwgeorge/drone/) - RPM packages for installing drone-server, drone-agent, and drone-cli on Fedora, CentOS, and RHEL
+
+### Infrastructure
+
+* [Drone EC2 Supervisor](https://github.com/fountainheadtechnologies/drone-ec2-supervisor#drone-ec2-supervisor) - Automatically starts/stops an EC2 Instance based queued builds.
